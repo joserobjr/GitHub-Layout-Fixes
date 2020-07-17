@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Align GitHub Headers
 // @namespace    http://github.com/GameModsBr
-// @version      0.3
+// @version      0.4
 // @description  I hate that the GitHub headers are misaligned in the new layout, so I made this to fix that
 // @author       joserobjr
 // @match        https://github.com/*
